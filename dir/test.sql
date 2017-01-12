@@ -1,1 +1,4 @@
-SELECT * FROM test t
+SELECT
+    *
+FROM test t
+WHERE t.test = true
