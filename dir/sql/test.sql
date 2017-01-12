@@ -1,4 +1,4 @@
 SELECT
     *
 FROM test t
-WHERE t.test = true
+WHERE t.test = trued
